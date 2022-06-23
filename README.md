@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NegusFemi
+- 👋 Hi, I’m @NegusFemi(Otuyemi Oluwafemi)
 - 👀 I’m interested in a wide range of subjects like android development via kotlin, php/laravel development, python/data science and analysis, web development, business intelligence/powerbi etc
 - 🌱 I’m currently learning advanced DAX to further improve my powerbi skills.
 - 💞️ I’m looking to collaborate on the range of subsjects/interests that i listed on my subject of interest( check number 2)
